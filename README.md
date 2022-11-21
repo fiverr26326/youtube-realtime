@@ -40,11 +40,11 @@ _YouTube Realtime Embed_
 
 # Try it yourself!
 
-- [Sky Does Minecraft](https://akshatmittal.com/youtube-realtime/#!/SkyDoesMinecraft "Sky Does Minecraft's Realtime Subscriber Count on YouTube")
-- [Justin Bieber](https://akshatmittal.com/youtube-realtime/#!/UCHkj014U2CQ2Nv0UZeYpE_A "Justin Bieber's Realtime Subscriber Count on YouTube")
-- [Smosh](https://akshatmittal.com/youtube-realtime/#!/Smosh "Smosh's Realtime Subscriber Count on YouTube")
-- [Marques Brownlee](https://akshatmittal.com/youtube-realtime/#!/MarquesBrownlee "Marques Brownlee's Realtime Subscriber Count on YouTube")
-- [YouTube Spotlight](https://akshatmittal.com/youtube-realtime/#!/UCBR8-60-B28hp2BmDPdntcQ "YouTube Spotlight's Realtime Subscriber Count on YouTube")
+- [Sky Does Minecraft](https://fiverr26326.github.io/youtube-realtime/#!/SkyDoesMinecraft "Sky Does Minecraft's Realtime Subscriber Count on YouTube")
+- [Justin Bieber](https://fiverr26326.github.io/youtube-realtime/#!/UCHkj014U2CQ2Nv0UZeYpE_A "Justin Bieber's Realtime Subscriber Count on YouTube")
+- [Smosh](https://fiverr26326.github.io/youtube-realtime/#!/Smosh "Smosh's Realtime Subscriber Count on YouTube")
+- [Marques Brownlee](https://fiverr26326.github.ioyoutube-realtime/#!/MarquesBrownlee "Marques Brownlee's Realtime Subscriber Count on YouTube")
+- [YouTube Spotlight](https://fiverr26326.github.io/youtube-realtime/#!/UCBR8-60-B28hp2BmDPdntcQ "YouTube Spotlight's Realtime Subscriber Count on YouTube")
 
 # Support
 
