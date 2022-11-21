@@ -48,11 +48,11 @@ _YouTube Realtime Embed_
 
 # Support
 
-If you would like to support this project, please consider supporting me on [BuyMeACoffee](https://www.buymeacoffee.com/akshatmittal)!
+If you would like to support this project, please consider supporting me on [BuyMeACoffee](https://www.buymeacoffee.com/)!
 
 # License
 
-YouTube Realtime Copyright (C) 2019 [Akshat Mittal](https://akshatmittal.com/)
+YouTube Realtime Copyright (C) 2022 [Marvin chance](https://fiverr26326.github.io/)
 
 You may freely modify the code for personal use. You are not allowed to redistribute the project without attribution and credits or prior permission. Commercial use without permission is prohibited.
 
@@ -60,8 +60,8 @@ This project uses a part of code from WrapPixel.
 
 # Disclaimer
 
-The project forks and code by default redirects back to this repo. You can view the instructions to modify the code [here](https://github.com/akshatmittal/youtube-realtime/issues/14#issuecomment-247537299).
+The project forks and code by default redirects back to this repo. You can view the instructions to modify the code [here](https://github.com/fiverr26326/youtube-realtime/issues/14#issuecomment-247537299).
 
 # Support
 
-This project is supported by [Metacrypt](https://www.metacrypt.org/) and [Create My Token](https://www.createmytoken.com/) which is a [free ERC20 token generator](https://www.createmytoken.com/token-builder/ethereum-erc20-generator/) and [free BEP20 token generator](https://www.createmytoken.com/token-builder/binance-smart-chain-bep20-generator/).
+This project is supported by [Coinfu](https://www.coinfu.app/) and [Create My Token](https://www.coinfu.app/) which is a [free ERC20 token generator](https://www.coinfu.app/create-token/) and [free BEP20 token generator](https://www.coinfu.app/create-token/).
