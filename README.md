@@ -48,7 +48,7 @@ _YouTube Realtime Embed_
 
 # Support
 
-If you would like to support this project, please consider supporting me on [BuyMeACoffee](https://www.buymeacoffee.com/)!
+If you would like to support this project, please consider supporting me on [BuyMeACoffee](https://www.buymeacoffee.com/sniper999)!
 
 # License
 
